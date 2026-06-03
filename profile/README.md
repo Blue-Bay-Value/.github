@@ -1,10 +1,6 @@
 ## Blue Bay Value
 
 <p align="center">
-  <img src="./bluebay-logo.png" alt="Blue Bay Value" width="600">
-</p>
-
-<p align="center">
   <strong>Internal GitHub Organization</strong><br>
   <em>Certified Service-Disabled Veteran-Owned Small Business (SDVOSB)</em>
 </p>
